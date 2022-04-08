@@ -1,0 +1,104 @@
+{
+  "itemId" : "_Rb2mIKE4EeyVvbrobJGrLg",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "__rDUkJ-jEeywW4MzEPMIjA",
+    "parameterList" : [ {
+      "id" : "__rYrxZ-jEeywW4MzEPMIjA",
+      "name" : "Oracle_Dev_Sid"
+    }, {
+      "id" : "__rYrxJ-jEeywW4MzEPMIjA",
+      "name" : "Oracle_Dev_Port"
+    }, {
+      "id" : "__rYrx5-jEeywW4MzEPMIjA",
+      "name" : "Oracle_Dev_Login"
+    }, {
+      "id" : "__rYrwp-jEeywW4MzEPMIjA",
+      "name" : "Oracle_Dev_AdditionalParams"
+    }, {
+      "id" : "__rYrw5-jEeywW4MzEPMIjA",
+      "name" : "Oracle_Dev_Password"
+    }, {
+      "id" : "__rYrxp-jEeywW4MzEPMIjA",
+      "name" : "Oracle_Dev_Server"
+    }, {
+      "id" : "__rYrwZ-jEeywW4MzEPMIjA",
+      "name" : "Oracle_Dev_Schema"
+    } ]
+  }, {
+    "contextName" : "Prod",
+    "repoId" : "__rDUkJ-jEeywW4MzEPMIjA",
+    "parameterList" : [ {
+      "id" : "__rYrxZ-jEeywW4MzEPMIjA",
+      "name" : "Oracle_Dev_Sid"
+    }, {
+      "id" : "__rYrxJ-jEeywW4MzEPMIjA",
+      "name" : "Oracle_Dev_Port"
+    }, {
+      "id" : "__rYrx5-jEeywW4MzEPMIjA",
+      "name" : "Oracle_Dev_Login"
+    }, {
+      "id" : "__rYrwp-jEeywW4MzEPMIjA",
+      "name" : "Oracle_Dev_AdditionalParams"
+    }, {
+      "id" : "__rYrw5-jEeywW4MzEPMIjA",
+      "name" : "Oracle_Dev_Password"
+    }, {
+      "id" : "__rYrxp-jEeywW4MzEPMIjA",
+      "name" : "Oracle_Dev_Server"
+    }, {
+      "id" : "__rYrwZ-jEeywW4MzEPMIjA",
+      "name" : "Oracle_Dev_Schema"
+    } ]
+  }, {
+    "contextName" : "Qa",
+    "repoId" : "__rDUkJ-jEeywW4MzEPMIjA",
+    "parameterList" : [ {
+      "id" : "__rYrxZ-jEeywW4MzEPMIjA",
+      "name" : "Oracle_Dev_Sid"
+    }, {
+      "id" : "__rYrxJ-jEeywW4MzEPMIjA",
+      "name" : "Oracle_Dev_Port"
+    }, {
+      "id" : "__rYrx5-jEeywW4MzEPMIjA",
+      "name" : "Oracle_Dev_Login"
+    }, {
+      "id" : "__rYrwp-jEeywW4MzEPMIjA",
+      "name" : "Oracle_Dev_AdditionalParams"
+    }, {
+      "id" : "__rYrw5-jEeywW4MzEPMIjA",
+      "name" : "Oracle_Dev_Password"
+    }, {
+      "id" : "__rYrxp-jEeywW4MzEPMIjA",
+      "name" : "Oracle_Dev_Server"
+    }, {
+      "id" : "__rYrwZ-jEeywW4MzEPMIjA",
+      "name" : "Oracle_Dev_Schema"
+    } ]
+  }, {
+    "contextName" : "Sit",
+    "repoId" : "__rDUkJ-jEeywW4MzEPMIjA",
+    "parameterList" : [ {
+      "id" : "__rYrxZ-jEeywW4MzEPMIjA",
+      "name" : "Oracle_Dev_Sid"
+    }, {
+      "id" : "__rYrxJ-jEeywW4MzEPMIjA",
+      "name" : "Oracle_Dev_Port"
+    }, {
+      "id" : "__rYrx5-jEeywW4MzEPMIjA",
+      "name" : "Oracle_Dev_Login"
+    }, {
+      "id" : "__rYrwp-jEeywW4MzEPMIjA",
+      "name" : "Oracle_Dev_AdditionalParams"
+    }, {
+      "id" : "__rYrw5-jEeywW4MzEPMIjA",
+      "name" : "Oracle_Dev_Password"
+    }, {
+      "id" : "__rYrxp-jEeywW4MzEPMIjA",
+      "name" : "Oracle_Dev_Server"
+    }, {
+      "id" : "__rYrwZ-jEeywW4MzEPMIjA",
+      "name" : "Oracle_Dev_Schema"
+    } ]
+  } ]
+}

@@ -1,0 +1,45 @@
+{
+  "itemId" : "_HDuQsK2ZEeyYC9ObZ13q9A",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_zqduQK2eEeyYC9ObZ13q9A",
+    "parameterList" : [ {
+      "id" : "_RWnOEK2fEeyYC9ObZ13q9A",
+      "name" : "FTP_Host"
+    }, {
+      "id" : "_RWnOE62fEeyYC9ObZ13q9A",
+      "name" : "FTP_Password"
+    }, {
+      "id" : "_RWnOEa2fEeyYC9ObZ13q9A",
+      "name" : "FTP_Port"
+    }, {
+      "id" : "_RWnOEq2fEeyYC9ObZ13q9A",
+      "name" : "FTP_UserName"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "__rDUkJ-jEeywW4MzEPMIjA",
+    "parameterList" : [ {
+      "id" : "__rYrwp-jEeywW4MzEPMIjA",
+      "name" : "Oracle_Dev_AdditionalParams"
+    }, {
+      "id" : "__rYrx5-jEeywW4MzEPMIjA",
+      "name" : "Oracle_Dev_Login"
+    }, {
+      "id" : "__rYrw5-jEeywW4MzEPMIjA",
+      "name" : "Oracle_Dev_Password"
+    }, {
+      "id" : "__rYrxJ-jEeywW4MzEPMIjA",
+      "name" : "Oracle_Dev_Port"
+    }, {
+      "id" : "__rYrwZ-jEeywW4MzEPMIjA",
+      "name" : "Oracle_Dev_Schema"
+    }, {
+      "id" : "__rYrxp-jEeywW4MzEPMIjA",
+      "name" : "Oracle_Dev_Server"
+    }, {
+      "id" : "__rYrxZ-jEeywW4MzEPMIjA",
+      "name" : "Oracle_Dev_Sid"
+    } ]
+  } ]
+}
